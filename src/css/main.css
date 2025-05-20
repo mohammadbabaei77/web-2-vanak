@@ -2,6 +2,7 @@
 @import "./mobile/header-m.css" only screen and (min-width: 0px);
 @import "./mobile/slider-m.css" only screen and (min-width:0px);
 @import "./mobile/products-m.css" only screen and (min-width:0px);
+@import "./footer.css" only screen and (min-width:0px);
 @import "./desktop/header-d.css" only screen and (min-width: 992px);
 @import "./desktop/slider-d.css" only screen and (min-width:992px);
 @import "./desktop/products-d.css" only screen and (min-width:992px);
